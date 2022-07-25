@@ -17,9 +17,9 @@ title:
 
 #### Supervisors
 
-- Dr. Qinyi Li, [qinyi.li@griffith.edu.au](mailto:name@eng.pdn.ac.lk)
-- Dr.Janaka Alawathugoda, [alawatugoda@eng.pdn.ac.lk](mailto:name@eng.pdn.ac.lk)
-- Prof. Roshan Ragel, [roshanr@eng.pdn.ac.lk](mailto:name@eng.pdn.ac.lk)
+- Dr. Qinyi Li, [email](mailto:qinyi.li@griffith.edu.au)
+- Dr.Janaka Alawathugoda, [email](mailto:alawatugoda@eng.pdn.ac.lk)
+- Prof. Roshan Ragel, [email](mailto:roshanr@eng.pdn.ac.lk)
 
 #### Table of content
 
@@ -61,8 +61,8 @@ title:
 
 [//]: # ( NOTE: EDIT THIS LINKS WITH YOUR REPO DETAILS )
 
-- [Project Repository](https://github.com/cepdnaclk/repository-name)
-- [Project Page](https://cepdnaclk.github.io/repository-name)
+- [Project Repository](https://github.com/cepdnaclk/e16-4yp-constructing-quantum-safe-leakage-resilient-public-key-encryption-scheme/)
+- [Project Page](https://cepdnaclk.github.io/e16-4yp-constructing-quantum-safe-leakage-resilient-public-key-encryption-scheme/)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
