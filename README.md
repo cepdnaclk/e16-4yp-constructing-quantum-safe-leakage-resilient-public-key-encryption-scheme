@@ -1,7 +1,7 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# Constructing Quantum-Safe Leakage-Resilient Public-Key Encryption Schemes
 ___
 
-## Please refer the instructions in below URL:
+## Introduction:
+This project investigates the leakage resilience in the setting of hash proof systems based on lattices and construct a quantum-safe leakage-resilient public-key encryption scheme.
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
