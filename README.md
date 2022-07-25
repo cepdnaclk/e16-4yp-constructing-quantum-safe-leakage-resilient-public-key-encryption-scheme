@@ -21,5 +21,5 @@ the public-key cryptosystem based upon them.
 - Prof. Roshan Ragel, [email](mailto:roshanr@eng.pdn.ac.lk)
 
 ## Project Page
--<https://github.com/cepdnaclk/e16-4yp-constructing-quantum-safe-leakage-resilient-public-key-encryption-scheme/>
+- <https://github.com/cepdnaclk/e16-4yp-constructing-quantum-safe-leakage-resilient-public-key-encryption-scheme/>
 
